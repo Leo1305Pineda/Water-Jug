@@ -12,6 +12,7 @@ Script Php that solves the Water Jug Riddle for dynamic inputs (X, Y, Z).
 ## Usage
 
 ```bash
+    # open terminal
     # edit variable 
     $water_jug1 = 2;# Define the target volume of water
     $water_jug2 = 10;# Define the target volume of water
